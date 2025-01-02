@@ -1,0 +1,7 @@
+{
+  "username": "[name='username']",
+  "password": "[name='password']",
+  "loginButton": "button[type='submit']",
+  "userErrorMessage": ".orangehrm-login-error>div>div>p",
+  "passwordErrorMessage": ".oxd-form>div:nth-child(3)>div span"
+}
